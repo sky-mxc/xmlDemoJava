@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<students> 
+  <student age="21"> 
+    <name>刘源</name>  
+    <college>导演系</college>  
+    <telephone>1232343</telephone>  
+    <notes>刘源，专业动作片导演</notes> 
+  </student> 
+</students>

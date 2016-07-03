@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sutdents SYSTEM "student.dtd">
+<students>
+	<student age="25">
+		<name >张三</name>
+		<college>PC学院</college>
+		<telephone>627987234</telephone>
+		<notes>男，1998年出生，硕士，现就读于北京邮电大学</notes>
+	</student>
+	<student >
+		<name>李四</name>
+		<college leader="leader3">历史系</college>
+		<telephone>627987234</telephone>
+		<notes>男，1998年出生，硕士，现就读于北京邮电大学</notes>
+	</student>
+</students>

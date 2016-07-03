@@ -1,0 +1,9 @@
+
+	<!ELEMENT students (student*) >
+	<!ELEMENT student (name,college,telephone,notes) >
+	<!ATTLIST student age CDATA "20">
+	<!ELEMENT name (#PCDATA)>
+	<!ELEMENT college (#PCDATA)>
+	<!ATTLIST college leader CDATA "leader">
+	<!ELEMENT telephone (#PCDATA)>
+	<!ELEMENT notes (#PCDATA)>
